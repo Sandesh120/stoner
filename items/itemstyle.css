@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#don{
+    background-color: rgb(90, 94, 100);
+
+}
+header{
+    /* margin: px 5px; */
+}
+.first{
+    color: aqua;
+    text-decoration: none;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-family:"Ubuntu", sans-serif;
+    /* color: rgb(24, 146, 89); */
+    text-shadow:1px 2px 3px rgb(0,0,0);
+}
+#haha{
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid black; */
+}
+.product{
+    color: cadetblue;
+    text-transform: uppercase;
+    font-family:"Ubuntu", sans-serif;
+    color: rgb(24, 146, 89);
+    text-shadow:1px 2px 3px rgb(0,0,0);
+
+}
+.search{
+    padding:10px;
+    /* border: 2px solid yellow; */
+    border-radius: 10px;
+
+}
+.image{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 10px;
+    overflow: hidden;
+    margin-top: -1px;
+}
+#babal{
+    display: flex;
+    /* background-color: dimgrey; */
+    width: 700px;
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    grid-gap: 40px 200px;
+    margin-left: 60px;
+    /* margin-bottom: 40px; */
+    margin-top: 20px;
+    /* overflow: hidden; */
+}
+.dami{
+    display: flex;
+    list-style: none;
+    width: 500px;
+    height: 150px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.surya{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    justify-content: space-between;
+}
+.top{
+    text-align: center;
+    text-transform: uppercase;
+    color: gold;
+    /* font-size: 30px; */
+    /* margin-bottom: -20px; */
+    text-shadow:1px 2px 3px rgb(0,0,0);
+    font-family:"Ubuntu", sans-serif;
+}
+.middle{
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+    /* font-size: 10px; */
+    /* margin-bottom: -20px; */
+    text-shadow:1px 2px 3px rgb(156, 21, 21);
+    font-family:"Ubuntu", sans-serif;
+}
+.bottom{
+    text-decoration: none;
+    color: rgb(24, 21, 19);
+    font-size: 20px;
+    text-shadow: 2px 2px 2px;
+    margin-left: 200px;
+
+}
+#last{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    /* margin: 0px 20px; */
+    height: 200px;
+}
+.lasty{
+    width: 80px;
+    height: 80px;
+    margin: 0px 20px;
+    border-radius: 20px;
+    margin-top: 50px;;
+}

@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#stoner{
+    color: rgb(70, 86, 138);
+    font-size: 34px;
+    font-family:"Ubuntu", sans-serif;
+    text-shadow: 1px 2px 3px rgb(0,0,0);
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: -450px;
+    /* text-align: center; */
+    /* justify-content: center; */
+    /* margin-top: 20px; */
+}
+header{
+    display: flex;
+    /* border: 1px solid black; */
+    text-align: center;
+    justify-content: space-between;
+    margin: 10px;
+    position: absolute;
+    width: 99%;
+    box-sizing: border-box;
+}
+nav a{
+    text-decoration: none;
+    margin-left: 20px;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-shadow: 1px 2px 2px rgb(0,0,0);
+}
+main h1{
+    font-size: 24px;
+    font-family:"Ubuntu", sans-serif;
+    color: rgb(24, 146, 89);
+    text-shadow:1px 2px 3px rgb(0,0,0);
+    text-transform: uppercase;
+}
+main p{
+    font-size: 20px;
+    font-family:"Ubuntu", sans-serif;
+    color: rgb(208, 220, 230);
+    text-shadow:1px 2px 3px rgb(0,0,0);
+    margin-bottom: 20px; 
+
+}
+main a{
+    text-align: none;
+    font-family:"Ubuntu", sans-serif;
+    color: rgb(109, 21, 112);
+    text-shadow:1px 2px 3px rgb(0,0,0); 
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+#one{
+    width: 900px;
+    height: 100px;
+    background-color: rgba(57,47, 47,0.8);
+    box-shadow: 1px 1px 2px 2px rgb(82, 88, 86);
+    border-radius: 10px;
+    padding: 5opx 0px;
+    margin: 0 auto;
+    position: relative;
+    top: 200px;
+    text-align: center;
+}
+ #one a:hover{
+    color: antiquewhite;
+    background-color: rgb(94, 170, 44);
+    padding: 10px;
+     border-radius:3px ;
+}
+nav a:hover{
+    background-color: greenyellow;
+    color: azure;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+#gaja{
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+#one a{
+    background-color: yellow;
+    color: rgb(71, 42, 4);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+

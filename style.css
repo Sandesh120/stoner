@@ -1,0 +1,58 @@
+#hero{
+    background-image: url(/picture/lexscope-NVEKSfNPhYY-unsplash.jpg);
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+}
+#stone{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+#sectiontwo{
+    display: flex;
+    /* background-color: rgb(56, 56, 54); */
+    /* background: linear-gradient(45deg,rgb(112, 106, 90), rgb(56, 56, 54)); */
+}
+.high{
+    text-align: center;
+    height: 200px;
+    margin: 0px 120px;
+    width: 200px;
+    /* padding: 10px; */
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px rgba(154, 177, 117, 0);
+}
+.mushroom{
+    text-align: center;
+}
+main strong{
+    color: yellow;
+}
+#san{
+    text-align: center;
+    /* margin-top: 20px; */
+    padding: 10px;
+    text-transform: uppercase;
+    font-size: 40px;
+    color: yellow;
+}
+#highlight{
+    background: linear-gradient(45deg,rgb(112, 106, 90), rgb(56, 56, 54));
+
+}
+#last{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    /* margin: 0px 20px; */
+    height: 200px;
+    list-style: none;
+}
+.lasty{
+    width: 80px;
+    height: 80px;
+    margin: 0px 20px;
+    border-radius: 20px;
+    margin-top: 50px;;
+}
